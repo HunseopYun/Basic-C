@@ -1,0 +1,9 @@
+﻿  file.c
+C:\Users\utacc\MyProject\NadoCoding\NadoCoding\file.c(68): warning C4566: character represented by universal-character-name '\uD30C' cannot be represented in the current code page (932)
+C:\Users\utacc\MyProject\NadoCoding\NadoCoding\file.c(68): warning C4566: character represented by universal-character-name '\uC77C' cannot be represented in the current code page (932)
+C:\Users\utacc\MyProject\NadoCoding\NadoCoding\file.c(68): warning C4566: character represented by universal-character-name '\uC5F4' cannot be represented in the current code page (932)
+C:\Users\utacc\MyProject\NadoCoding\NadoCoding\file.c(68): warning C4566: character represented by universal-character-name '\uAE30' cannot be represented in the current code page (932)
+C:\Users\utacc\MyProject\NadoCoding\NadoCoding\file.c(68): warning C4566: character represented by universal-character-name '\uC2E4' cannot be represented in the current code page (932)
+C:\Users\utacc\MyProject\NadoCoding\NadoCoding\file.c(68): warning C4566: character represented by universal-character-name '\uD328' cannot be represented in the current code page (932)
+C:\Users\utacc\MyProject\NadoCoding\NadoCoding\file.c(13): warning C4101: 'line': unreferenced local variable
+  NadoCoding.vcxproj -> C:\Users\utacc\MyProject\NadoCoding\Debug\NadoCoding.exe
